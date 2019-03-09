@@ -1,0 +1,22 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\Mar07ProperResonpseCode\Set Proper Status Code in Response\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

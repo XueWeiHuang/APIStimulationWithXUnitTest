@@ -1,0 +1,17 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\WebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\bin\Debug\netcoreapp2.2\WebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csproj.CopyComplete
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\XunitTestAPI\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.pdb
